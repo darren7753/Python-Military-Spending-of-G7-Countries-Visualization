@@ -17,4 +17,4 @@ panel serve --show files_name.ipynb
 
 ### Contact
 - [Instagram](https://www.instagram.com/darren_matthew_/)
-- [Linkedln](https://www.linkedin.com/feed/)
+- [LinkedIn](https://www.linkedin.com/feed/)
